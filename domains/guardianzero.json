@@ -1,0 +1,14 @@
+{
+  "description": "Backend API and Dashboard for Guardian Zero Anti-Theft Architecture",
+  "repo": "https://github.com/bijoymondalll/guardian-zero",
+  "owner": {
+    "username": "bijoymondalll",
+    "email": "ritamondalfaleya@gmail.com"
+  },
+  "record": {
+    "NS": [
+      "amy.ns.cloudflare.com",
+      "emerson.ns.cloudflare.com"
+    ]
+  }
+}
