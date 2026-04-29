@@ -1,13 +1,10 @@
 {
-  "description": "Personal Portfolio of Bijoy Mondal - Flutter Developer",
+  "description": "Personal Portfolio of Bijoy Mondal",
   "owner": {
     "username": "bijoymondalll",
     "email": "bijoymond47@gmail.com"
   },
-  "records": {
-    "NS": [
-      "amy.ns.cloudflare.com",
-      "emerson.ns.cloudflare.com"
-    ]
+  "record": {
+    "CNAME": "bijoymondalll.github.io"
   }
 }
